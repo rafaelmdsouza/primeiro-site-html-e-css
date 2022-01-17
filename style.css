@@ -22,9 +22,12 @@ a{
 }
 
 
-.header_image{
+img.header_image{
     border-radius: 50%;
-    border: 1px solid #505050;
+    border: 2px solid #505050;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 .subtitle{
